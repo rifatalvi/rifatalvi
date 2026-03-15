@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="rifatalvi765@gmail.com">
+  <a href="mailto:rifatalvi765@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/rifat-alvi/" target="_blank">
