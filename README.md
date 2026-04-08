@@ -14,10 +14,6 @@
   <a href="https://rifatalvi.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
-</p>
 
 <br/>
 
