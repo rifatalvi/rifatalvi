@@ -32,10 +32,16 @@ I am a passionate **Full-Stack Web Developer** and a 2nd-year **Electrical and E
 * ⚡ I’m an active moderator at my university's **Robotics Club**.
 * ✍️ I enjoy building utility tools like **Digi-Tools App** and **English Janala**.
 
-## 🛠️ Tech Stack & Skills
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,supabase,figma,git,github,vscode,vercel,netlify" />
-</div>
+
+## 🛠️ Tech Stack
+### 🌐 Frontend & Design
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,figma" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" />
+
+### 🚀 Tools & Deployment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,docker" />
 
 <br/>
 
